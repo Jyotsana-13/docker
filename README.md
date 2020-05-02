@@ -8,14 +8,15 @@
    Yum and other files shoud be configured.
    
 # How to run this project:
-   1. download all the given three files in seperate folder.
-   2. run the command:  
+    1. download all the given three files in seperate folder.
+    2. run the command:  
              > python3 docker.py.
-   now use the given following choices as your requirement.
+    now use the given following choices as your requirement.
 
 # How to use this project:
    See the following options and click the button of options as per your requirement.
-     Menu of the project look likes
+   Menu of the project look likes:
+   
       > Press 1:  docker installation
       > Press 2:  docker compose installation
       > Press 3:  to launch wordpress site

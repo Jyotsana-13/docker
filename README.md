@@ -15,7 +15,7 @@
 
 # How to use this project:
    See the following options and click the button of options as per your requirement.
-     Menu of the project look likes:
+     Menu of the project look likes
       > Press 1:  docker installation
       > Press 2:  docker compose installation
       > Press 3:  to launch wordpress site

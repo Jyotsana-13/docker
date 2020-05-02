@@ -38,7 +38,8 @@
     > database password : redhat
     > database name : mydb
   if you want to change this ,you can change it by using  docker-compose.yml file.
-  # Official link for reference https://www.docker.com/
+  # Official link for reference
+  https://www.docker.com/
     
  # Contact details:   
    linkedin: https://www.linkedin.com/in/jyotsana-chandwani-2032921a1

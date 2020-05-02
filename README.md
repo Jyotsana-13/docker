@@ -9,7 +9,7 @@
    
 # How to run this project:
    1. download all the given three files in seperate folder.
-   2. run the command 
+   2. run the command:  
              > python3 docker.py.
    now use the given following choices as your requirement.
 

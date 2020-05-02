@@ -4,9 +4,9 @@
     
 # Requirements to Run this project:
 
-   You should have redhat linux.
-   You should have python3 in your redhat linux.
-   Yum and other files shoud be configured.
+    1. You should have redhat linux.
+    2. You should have python3 in your redhat linux.
+    3. Yum and other files shoud be configured.
    
 # How to run this project:
     1. download all the given three files in seperate folder.
@@ -38,8 +38,7 @@
     > database password : redhat
     > database name : mydb
   if you want to change this ,you can change it by using  docker-compose.yml file.
-  # Official link for refence:
-    https://www.docker.com/
+  # Official link for reference https://www.docker.com/
     
  # Contact details:   
    linkedin: https://www.linkedin.com/in/jyotsana-chandwani-2032921a1

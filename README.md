@@ -3,6 +3,7 @@
     With the help of this project one can install the docker in its redhat linux and use it easily.
     
 # Requirements to Run this project:
+
    You should have redhat linux.
    You should have python3 in your redhat linux.
    Yum and other files shoud be configured.
